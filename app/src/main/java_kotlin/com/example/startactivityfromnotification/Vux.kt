@@ -1,4 +1,4 @@
 package com.example.startactivityfromnotification
 
-class Vu {
+class Vux {
 }
